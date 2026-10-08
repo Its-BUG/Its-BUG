@@ -23,6 +23,6 @@ TCP/IP • Sockets • epoll • Processes • Threads
 
 ## 📬 Let's Connect
 
-* 💼 **LinkedIn:** linkedin.com/in/salaheddine-amoussaoui-17285136b
+* 💼 **LinkedIn:** linkedin.com/in/salaheddine-amoussaoui-17285136b 
 * 📧 **Email:** salaheddineamoussaoui@gmail.com
 
