@@ -1,6 +1,7 @@
 # Hi 👋 I'm Salaheddine
 
-🎓 Software Engineering Student at 42/1337
+🎓 Software Engineering Student at 42/1337.
+
 💻 C/C++ | Python | JavaScript
 🌐 Backend | Networking | Systems Programming
 🤖 Currently learning AI, LLMs & AI Agents
@@ -19,3 +20,10 @@ C • C++ • Python • JavaScript
 Node.js • Express.js • PostgreSQL
 Linux • Docker • Git
 TCP/IP • Sockets • epoll • Processes • Threads
+
+## 📬 Let's Connect
+💼 LinkedIn: linkedin.com/in/salaheddine-amoussaoui-17285136b
+📧 Email: salaheddineamoussaoui@gmail.com
+
+
+
