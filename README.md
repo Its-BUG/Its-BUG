@@ -22,8 +22,7 @@ Linux • Docker • Git
 TCP/IP • Sockets • epoll • Processes • Threads
 
 ## 📬 Let's Connect
-💼 LinkedIn: linkedin.com/in/salaheddine-amoussaoui-17285136b
-📧 Email: salaheddineamoussaoui@gmail.com
 
-
+* 💼 **LinkedIn:** linkedin.com/in/salaheddine-amoussaoui-17285136b
+* 📧 **Email:** salaheddineamoussaoui@gmail.com
 
