@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Salaheddine
 
-<!--
-**Its-BUG/Its-BUG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at 42/1337
+💻 C/C++ | Python | JavaScript
+🌐 Backend | Networking | Systems Programming
+🤖 Currently learning AI, LLMs & AI Agents
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineering student at 42/1337
+interested in backend development, systems programming,
+networking and AI-powered applications.
+
+My 42/1337 journey has given me a strong foundation in
+C/C++, Linux, algorithms,Docker, networking and software engineering.
+
+## Technologies
+C • C++ • Python • JavaScript
+Node.js • Express.js • PostgreSQL
+Linux • Docker • Git
+TCP/IP • Sockets • epoll • Processes • Threads
