@@ -3,7 +3,9 @@
 🎓 Software Engineering Student at 42/1337.
 
 💻 C/C++ | Python | JavaScript
+
 🌐 Backend | Networking | Systems Programming
+
 🤖 Currently learning AI, LLMs & AI Agents
 
 ## About Me
