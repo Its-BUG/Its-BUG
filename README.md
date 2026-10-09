@@ -21,8 +21,27 @@ Node.js • Express.js • PostgreSQL
 Linux • Docker • Git
 TCP/IP • Sockets • epoll • Processes • Threads
 
+## Currently expanding my skills in:
+
+- Python
+- JavaScript / Node.js
+- Express.js
+- PostgreSQL
+- REST APIs
+- LLMs & Generative AI
+- AI Agents
+
+## Current Projects
+
+🤖 AI / LLM Projects
+Python • LLM APIs • RAG • AI Agents
+
+🚀 ft_transcendence
+Full-stack web application
+
 ## 📬 Let's Connect
 
 * 💼 **LinkedIn:** linkedin.com/in/salaheddine-amoussaoui-17285136b 
 * 📧 **Email:** salaheddineamoussaoui@gmail.com
+
 
